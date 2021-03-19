@@ -3,7 +3,7 @@ body {
   padding: 0;
   font-family: 'Arial', serif;
 }
-.nav {
+.navbar {
   background-color: #595959;
   color: #ffffff;
   list-style: none;
@@ -11,12 +11,12 @@ body {
   padding: 20px 0 20px 0;
 }
 
-.nav > li {
+.navbar > li {
   display: inline-block;
   padding-right: 50px;
 }
 
-.nav > li > a {
+.navbar > li > a {
   text-decoration: none;
   color: #ffffff;
 }
